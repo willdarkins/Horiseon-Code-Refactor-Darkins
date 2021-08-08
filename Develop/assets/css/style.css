@@ -18,6 +18,8 @@ p {
     font-size: 16px;
 }
 
+/* header section */
+
 header {
     padding: 20px;
     margin-right: 20px;
@@ -46,6 +48,8 @@ header ul li {
     font-size: 20px;
 }
 
+/* hero section */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -54,6 +58,8 @@ header ul li {
     background-size: cover;
     background-position: center;
 }
+
+/* content block that includes explanation of 'search engine optimization' - 'online repuatation managment' - 'social media marketing' */
 
 .digital-tools {
     width: 75%;
@@ -102,6 +108,8 @@ header ul li {
     background-color: #0072bb;
 }
 
+/* content block that includes explanation of 'lead generation' - 'brand awarness' - 'cost managment' */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +143,8 @@ header ul li {
 .benefits-cost {
     margin-bottom: 32px;
 }
+
+/* footer section */
 
 .footer {
     padding: 30px;
